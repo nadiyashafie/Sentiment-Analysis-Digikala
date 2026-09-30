@@ -1,4 +1,4 @@
-Sentiment Analysis on Digikala Reviews
+## Sentiment Analysis on Digikala Reviews
 
 A Persian sentiment analysis project based on Digikala product reviews.
 The project focuses on three recommendation classes:
