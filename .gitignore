@@ -3,3 +3,4 @@ models/*.bin
 __pycache__/
 .ipynb_checkpoints/
 .env
+models/best_model.keras
